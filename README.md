@@ -1,2 +1,2 @@
 # vue-todo
-Introduction to vue frontend framework
+Introduction to vue frontend library
